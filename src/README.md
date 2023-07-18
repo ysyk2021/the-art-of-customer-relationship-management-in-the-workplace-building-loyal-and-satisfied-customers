@@ -18,5 +18,4 @@ Welcome to the first chapter of "The Art of Customer Relationship Management in 
 
 Stay tuned for Chapter 2: Understanding Customer Segmentation.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
