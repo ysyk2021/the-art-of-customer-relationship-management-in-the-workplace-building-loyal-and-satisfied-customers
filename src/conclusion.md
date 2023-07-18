@@ -1,8 +1,5 @@
 # Conclusion
 
-Chapter 10: Conclusion
-======================
-
 In this book, we have explored the art of customer relationship management (CRM) and how it can be used to build loyal and satisfied customers. We have covered various techniques for effective CRM, including assessing personal CRM style, developing a customer-centric mindset, and tracking progress and adjusting course.
 
 Recap of Key CRM Techniques
