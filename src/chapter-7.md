@@ -1,5 +1,3 @@
-Chapter 7: Overcoming Barriers to CRM
-=====================================
 
 In this chapter, we will explore common barriers to effective customer relationship management (CRM) and techniques for overcoming them. We will discuss strategies for addressing customer complaints and negative feedback, dealing with resistance and disengagement from customers, managing conflict and difficult customer situations, and maintaining professionalism and integrity in customer relationships.
 
@@ -60,5 +58,4 @@ Some techniques for maintaining professionalism and integrity in customer relati
 By maintaining professionalism and integrity in customer relationships, businesses can build trust and long-term loyalty with customers.
 
 In conclusion, overcoming barriers to CRM is essential for building loyal and satisfied customers. By addressing customer complaints and negative feedback, dealing with resistance and disengagement from customers, managing conflict and difficult customer situations, and maintaining professionalism and integrity in customer relationships, businesses can improve customer satisfaction and loyalty and build strong, lasting relationships with customers.
-
 

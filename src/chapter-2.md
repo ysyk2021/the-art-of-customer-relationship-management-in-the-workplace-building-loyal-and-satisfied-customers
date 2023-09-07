@@ -1,5 +1,3 @@
-Chapter 2: Defining Customer Relationship Management
-====================================================
 
 In this chapter, we will define customer relationship management (CRM) and explore its importance in building loyal and satisfied customers. We will discuss the science behind CRM and techniques for assessing your personal CRM style.
 

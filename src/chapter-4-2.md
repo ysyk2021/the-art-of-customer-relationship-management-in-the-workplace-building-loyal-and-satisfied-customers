@@ -1,5 +1,3 @@
-Creating a Supportive Customer Service Environment
-===========================================================================================
 
 In this chapter, we will explore the importance of creating a supportive customer service environment in effective customer relationship management (CRM). We will discuss techniques for creating a positive customer service experience and building long-term loyalty with customers.
 

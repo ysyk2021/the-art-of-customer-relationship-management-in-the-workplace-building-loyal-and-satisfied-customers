@@ -1,5 +1,3 @@
-Developing Empathy Through Customer Perspective
-=================================================================================================
 
 In this chapter, we will explore the importance of developing empathy through customer perspective in building a customer-centric mindset. We will discuss techniques for understanding and anticipating customer needs and preferences, providing personalized support and assistance, and delivering exceptional customer experiences.
 

@@ -1,5 +1,3 @@
-Applying CRM Techniques to Leadership
-======================================================================================
 
 Developing strong leadership is crucial for successful customer relationship management (CRM) in the workplace. Leaders who apply CRM techniques to their leadership style can create a culture of customer-centricity that fosters loyalty and satisfaction among customers. In this chapter, we will explore how to apply CRM techniques to leadership.
 

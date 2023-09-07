@@ -1,5 +1,3 @@
-Building Trust and Respect with Customers
-==========================================================================================
 
 In this chapter, we will explore the importance of developing strong leadership in effective customer relationship management (CRM). We will discuss the role of building trust and respect with customers as techniques for developing strong leadership in CRM.
 

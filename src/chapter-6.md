@@ -1,5 +1,3 @@
-Chapter 6: Developing Strong Leadership for CRM
-===============================================
 
 In this chapter, we will explore the importance of strong leadership in effective customer relationship management (CRM). We will discuss techniques for applying CRM techniques to leadership, building trust and respect with customers, encouraging creativity and innovation in customer service, and fostering diversity and inclusion in customer relationships.
 

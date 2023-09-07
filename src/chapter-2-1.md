@@ -1,5 +1,3 @@
-Overview of CRM
-=====================================================================
 
 Customer relationship management (CRM) is a business strategy that focuses on building and maintaining long-term relationships with customers to drive revenue growth and improve customer satisfaction. In this chapter, we will provide an overview of CRM and its importance in the workplace.
 

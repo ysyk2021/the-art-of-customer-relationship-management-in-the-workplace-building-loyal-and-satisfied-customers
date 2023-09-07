@@ -1,5 +1,3 @@
-Developing Effective Communication Skills
-=====================================================================================
 
 In this chapter, we will explore the importance of effective communication skills in effective customer relationship management (CRM). We will discuss techniques for developing effective communication skills and using them to build strong relationships with customers.
 

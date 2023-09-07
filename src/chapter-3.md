@@ -1,5 +1,3 @@
-Chapter 3: Developing a Customer-Centric Mindset
-================================================
 
 In this chapter, we will explore the importance of developing a customer-centric mindset in effective customer relationship management (CRM). We will discuss techniques for cultivating a customer-centric mindset, utilizing positive self-talk and visualization, setting realistic goals and objectives, and developing empathy through customer perspective.
 

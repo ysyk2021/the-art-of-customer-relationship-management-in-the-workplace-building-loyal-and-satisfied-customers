@@ -1,5 +1,3 @@
-Adapting to Changes in the Workplace
-===============================================================================================
 
 In this chapter, we will explore the importance of measuring results and learning from experience as a component of effective customer relationship management (CRM). We will discuss techniques for measuring the effectiveness of CRM strategies, analyzing results, and using insights to adapt to changes in the workplace.
 

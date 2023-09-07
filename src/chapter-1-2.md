@@ -1,5 +1,3 @@
-Common Misconceptions About CRM
-========================================
 
 In this chapter, we address common misconceptions about Customer Relationship Management (CRM) and provide clarifications to help businesses understand the true value and potential of CRM strategies.
 

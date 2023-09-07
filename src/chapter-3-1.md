@@ -1,5 +1,3 @@
-Techniques for Cultivating a Customer-Centric Mindset
-=======================================================================================================
 
 Developing a customer-centric mindset is essential for effective customer relationship management. In this chapter, we will explore techniques for cultivating a customer-centric mindset.
 

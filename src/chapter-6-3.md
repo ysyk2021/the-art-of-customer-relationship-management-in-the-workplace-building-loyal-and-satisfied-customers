@@ -1,5 +1,3 @@
-Encouraging Creativity and Innovation in Customer Service
-==========================================================================================================
 
 In this chapter, we will explore the importance of encouraging creativity and innovation as a key aspect of effective customer relationship management (CRM). We will discuss techniques for developing strong leadership skills to encourage creativity and innovation in customer service.
 

@@ -1,5 +1,3 @@
-Providing Opportunities for Customer Feedback
-======================================================================================
 
 In this chapter, we will explore the importance of providing opportunities for customer feedback in effective customer relationship management (CRM). We will discuss techniques for soliciting and responding to customer feedback, as well as ways to use customer feedback to improve products, services, and overall customer satisfaction.
 

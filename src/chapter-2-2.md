@@ -1,5 +1,3 @@
-Understanding the Science Behind CRM
-=============================================
 
 In this chapter, we delve into the science behind Customer Relationship Management (CRM) and explore the key principles and concepts that underpin effective relationship building in the workplace.
 

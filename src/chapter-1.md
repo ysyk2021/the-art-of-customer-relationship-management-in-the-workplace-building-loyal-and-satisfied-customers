@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 In this book, we will explore the art of customer relationship management (CRM) in the workplace. We will discuss strategies for building strong relationships with customers, developing effective leadership for CRM, overcoming barriers to CRM, measuring results and learning from experience, implementing continuous improvement and evaluation, and developing a customer-centric mindset.
 

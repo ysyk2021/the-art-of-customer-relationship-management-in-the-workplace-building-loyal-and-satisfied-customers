@@ -1,5 +1,3 @@
-Dealing with Resistance and Disengagement from Customers
-=================================================================
 
 In this chapter, we explore strategies for effectively handling resistance and disengagement from customers in the workplace. It is important to address these challenges promptly and tactfully to maintain positive relationships and foster customer loyalty.
 

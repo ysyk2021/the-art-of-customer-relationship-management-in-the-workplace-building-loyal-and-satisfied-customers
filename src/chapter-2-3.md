@@ -1,5 +1,3 @@
-Assessing Your Personal CRM Style
-==========================================
 
 Customer Relationship Management (CRM) is not just a strategy for organizations; it can also be applied to personal interactions in the workplace. In this chapter, we will explore how you can assess your personal CRM style and develop stronger relationships with your colleagues and clients. Understanding and improving your personal CRM style is crucial for building loyal and satisfied customers in the workplace.
 
